@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 34b06a07a29a5594d9dcde79991bf3a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Carta1: {fileID: 6530179738444782934, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta2: {fileID: 613435604629981061, guid: da81d3687d2892e43a6a2abc13016ee6, type: 3}
+  - Carta3: {fileID: -3656531271222932061, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta4: {fileID: 3930011312167392660, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta5: {fileID: -96796154962138083, guid: da81d3687d2892e43a6a2abc13016ee6, type: 3}
+  - Carta6: {fileID: -7054820123952135176, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta7: {fileID: 4530623484691778272, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta8: {fileID: -5581956015464806101, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta9: {fileID: -2661919970533589962, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta10: {fileID: 3038985000587531000, guid: da81d3687d2892e43a6a2abc13016ee6,
+      type: 3}
+  - Carta: {fileID: 853740769635691190, guid: 70674198c434dd14ab11bb3fb26dbd25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
